@@ -10,7 +10,7 @@ This is an example to show case a simple example of how 'React Context' can be u
 
 ### Prerequisites
 
-node should be already installed on the system. Follow https://nodejs.org/en/ if needed.
+Node should be already installed on the system. Follow https://nodejs.org/en/ if needed.
 
 ## Deployment
 
