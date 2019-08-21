@@ -1,2 +1,2 @@
 # react-context
-  'Ract Context' example
+  'React Context' example
